@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:part_builder",
+  "cost": 1,
+  "pattern": "aether_tinker:soar_heart",
+  "pattern_item": [
+    {
+      "item": "aether:victory_medal"
+    }
+  ],
+  "result": {
+    "item": "aether_tinker:soar_heart"
+  }
+}

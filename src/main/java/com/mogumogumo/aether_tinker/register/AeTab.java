@@ -46,6 +46,8 @@ public class AeTab {
         Objects.requireNonNull(tab);
         Consumer<ItemStack> output = tab::accept;
         acceptTool(output,Aeitems.crosier);
+        acceptPart(output, Aeitems.soar_heart);
+        acceptTools(output, Aeitems.soar_armor);
     }
     public static final Supplier<CreativeModeTab> materials=creative_mode_tab.register("materials",()-> CreativeModeTab.builder()
             //槽位位置

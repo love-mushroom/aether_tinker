@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "name": "aether_tinker:molten_warding_steel",
+    "amount": 90
+  },
+  "temperature": 1350,
+  "output": "aether_tinker:warding_steel"
+}

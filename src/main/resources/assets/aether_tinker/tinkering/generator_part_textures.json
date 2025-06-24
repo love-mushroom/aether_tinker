@@ -11,6 +11,93 @@
     {
       "path": "aether_tinker:item/tool/crosier/bing",
       "stat_type": "tconstruct:handle"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/soar",
+      "stat_type": "tconstruct:shield_core"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/head1",
+      "stat_type": "tconstruct:plating_helmet"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/head2",
+      "stat_type": "tconstruct:plating_helmet"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/head3",
+      "stat_type": "tconstruct:shield_core"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/chest1",
+      "stat_type": "tconstruct:plating_chestplate"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/chest2",
+      "stat_type": "tconstruct:plating_chestplate"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/chest3",
+      "stat_type": "tconstruct:shield_core"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/trouser1",
+      "stat_type": "tconstruct:plating_leggings"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/trouser2",
+      "stat_type": "tconstruct:plating_leggings"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/trouser3",
+      "stat_type": "tconstruct:shield_core"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/foot1",
+      "stat_type": "tconstruct:plating_boots"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/foot2",
+      "stat_type": "tconstruct:plating_boots"
+    },
+    {
+      "path": "aether_tinker:item/tool/soar/foot3",
+      "stat_type": "tconstruct:shield_core"
+    },
+    {
+      "path": "aether_tinker:tinker_armor/soar/upper_armor",
+      "stat_type": "tconstruct:armor_plating",
+      "allow_animated": false
+    },
+    {
+      "path": "aether_tinker:tinker_armor/soar/upper_leggings",
+      "stat_type": "tconstruct:armor_plating",
+      "allow_animated": false
+    },
+    {
+      "path": "aether_tinker:tinker_armor/soar/lower_armor",
+      "stat_type": "tconstruct:armor_plating",
+      "allow_animated": false
+    },
+    {
+      "path": "aether_tinker:tinker_armor/soar/lower_leggings",
+      "stat_type": "tconstruct:armor_plating",
+      "allow_animated": false
+    },
+    {
+      "path": "aether_tinker:tinker_armor/soar/wood_armor",
+      "stat_type": "tconstruct:shield_core",
+      "allow_animated": false
+    },
+    {
+      "path": "aether_tinker:tinker_armor/soar/wood_leggings",
+      "stat_type": "tconstruct:shield_core",
+      "allow_animated": false
+    },
+    {
+      "path": "aether_tinker:tinker_armor/soar/wood_wings",
+      "stat_type": "tconstruct:shield_core",
+      "allow_animated": false
     }
   ],
   "replace": false

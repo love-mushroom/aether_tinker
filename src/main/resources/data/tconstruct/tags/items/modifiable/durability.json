@@ -1,7 +1,10 @@
 {
   "replace": false,
   "values": [
-
-"aether_tinker:crosier"
+    "aether_tinker:crosier",
+    "aether_tinker:soar_armor_helmet",
+    "aether_tinker:soar_armor_chestplate",
+    "aether_tinker:soar_armor_leggings",
+    "aether_tinker:soar_armor_boots"
   ]
 }

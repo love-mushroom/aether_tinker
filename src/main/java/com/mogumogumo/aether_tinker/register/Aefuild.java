@@ -15,6 +15,7 @@ public class Aefuild {
     public static final FluidDeferredRegister FLUIDS = new FluidDeferredRegister(MODID);
     public static final FluidObject<ForgeFlowingFluid> molten_zanite_gemstone = register("molten_zanite_gemstone", 999);
     public static final FluidObject<ForgeFlowingFluid> molten_valkyrie = register("molten_valkyrie", 999);
+    public static final FluidObject<ForgeFlowingFluid> molten_warding_steel = register("molten_warding_steel", 999);
     public static final FluidObject<ForgeFlowingFluid> molten_mushroom_steel = register("molten_mushroom_steel", 999);
     public static final FluidObject<ForgeFlowingFluid> molten_stratus = register("molten_stratus", 999);//stratus
     public static final FluidObject<ForgeFlowingFluid> molten_ambrosium = register("molten_ambrosium", 999);//stratus

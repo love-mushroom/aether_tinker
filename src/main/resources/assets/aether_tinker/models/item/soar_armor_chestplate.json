@@ -1,0 +1,26 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "1": "aether_tinker:item/tool/soar/chest1",
+    "2": "aether_tinker:item/tool/soar/chest2",
+    "3": "aether_tinker:item/tool/soar/chest3"
+  },
+  "modifier_roots": [
+    "aether_tinker:item/tool/soar/modifiers/"
+  ],
+  "parts": [
+    {
+      "name": "2",
+      "index": 0
+    },
+    {
+      "name": "1",
+      "index": 1
+    },
+    {
+      "name": "3",
+      "index": 2
+    }
+  ]
+}

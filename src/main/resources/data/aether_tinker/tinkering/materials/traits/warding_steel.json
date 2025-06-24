@@ -1,0 +1,24 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "aether_tinker:warding"
+    },
+    {
+      "level": 1,
+      "name": "aether_tinker:die"
+    }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "aether_tinker:warding_armor"
+      },
+      {
+        "level": 1,
+        "name": "aether_tinker:die"
+      }
+    ]
+  }
+}

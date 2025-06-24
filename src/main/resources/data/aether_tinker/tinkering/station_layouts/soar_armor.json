@@ -1,0 +1,47 @@
+{
+  "icon": {
+    "pattern": "aether_tinker:soar_armor"
+  },
+  "input_slots": [
+    {
+      "filter": [
+        {
+          "item": "tconstruct:helmet_plating"
+        },
+        {
+          "item": "tconstruct:chestplate_plating"
+        },
+        {
+          "item": "tconstruct:leggings_plating"
+        },
+        {
+          "item": "tconstruct:boots_plating"
+        }
+      ],
+      "icon": "tconstruct:plating",
+      "translation_key": "pattern.tconstruct.plating",
+      "x": 33,
+      "y": 20
+    },
+    {
+      "filter": {
+        "item": "tconstruct:maille"
+      },
+      "icon": "tconstruct:maille",
+      "translation_key": "item.tconstruct.maille",
+      "x": 33,
+      "y": 40
+    },
+    {
+      "filter": {
+        "item": "aether_tinker:soar_heart"
+      },
+      "icon": "aether_tinker:soar_heart",
+      "translation_key": "item.aether_tinker.soar_heart",
+      "x": 33,
+      "y": 60
+    }
+  ],
+  "sortIndex": 15,
+  "translation_key": "gui.aether_tinker.soar_armor"
+}

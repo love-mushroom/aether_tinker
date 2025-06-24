@@ -8,8 +8,6 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.world.entity.LivingEntity;
-import net.minecraft.world.entity.MobType;
-import net.minecraft.world.entity.monster.Stray;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.common.MinecraftForge;
@@ -20,8 +18,6 @@ import slimeknights.tconstruct.library.tools.helper.ModifierUtil;
 import slimeknights.tconstruct.library.tools.nbt.IToolStackView;
 import slimeknights.tconstruct.library.tools.nbt.ModDataNBT;
 import slimeknights.tconstruct.library.tools.nbt.ToolStack;
-
-import java.util.Objects;
 
 public class heroic_spirit extends BattleModifier {
 
@@ -42,14 +38,14 @@ public class heroic_spirit extends BattleModifier {
     private void onEntityDeath(LivingDeathEvent event){
         if (event.getSource().getEntity() instanceof Player player&&event.getEntity()!=null) {
             ModDataNBT a = ToolStack.from(player.getItemBySlot(EquipmentSlot.MAINHAND)).getPersistentData();
-            if (a.getFloat(heroic_spirit)<player.getMaxHealth()){
-                a.putFloat(heroic_spirit, a.getFloat(heroic_spirit) + 1);
+            if (a.getInt(heroic_spirit) <= player.getMaxHealth()) {
+                a.putInt(heroic_spirit, a.getInt(heroic_spirit) + 1);
             }
         }
     }
     public float staticdamage(IToolStackView tool, int level, ToolAttackContext context, LivingEntity attacker, LivingEntity livingTarget, float baseDamage, float damage) {
         if (attacker instanceof Player player) {
-            return baseDamage - tool.getPersistentData().getFloat(heroic_spirit);
+            return baseDamage + tool.getPersistentData().getInt(heroic_spirit);
         }
         return damage;
     }

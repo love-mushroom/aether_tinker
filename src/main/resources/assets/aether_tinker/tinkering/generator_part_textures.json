@@ -1,0 +1,17 @@
+{
+  "parts": [
+    {
+      "path": "aether_tinker:item/tool/crosier/ding",
+      "stat_type": "tconstruct:head"
+    },
+    {
+      "path": "aether_tinker:item/tool/crosier/huwan",
+      "stat_type": "tconstruct:handle"
+    },
+    {
+      "path": "aether_tinker:item/tool/crosier/bing",
+      "stat_type": "tconstruct:handle"
+    }
+  ],
+  "replace": false
+}

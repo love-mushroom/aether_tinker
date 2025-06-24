@@ -1,0 +1,24 @@
+modLoader = "javafml"
+loaderVersion = "${loader_version_range}"
+license = "GPL"
+
+[[mods]]
+modId = "aether_tinker"
+version = "1.0.0"
+displayName = "Aether tinker"
+authors = "mogumogumo"
+description = '''Aether tinker.'''
+
+[[dependencies.aether_tinker]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.aether_tinker]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "AFTER"
+side = "BOTH"

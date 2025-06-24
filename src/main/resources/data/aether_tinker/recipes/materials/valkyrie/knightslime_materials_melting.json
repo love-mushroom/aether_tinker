@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "aether_tinker:valkyrie",
+  "temperature": 1350,
+  "result": {
+    "fluid": "aether_tinker:molten_valkyrie",
+    "amount": 90
+  }
+}

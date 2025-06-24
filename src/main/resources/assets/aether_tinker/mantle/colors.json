@@ -1,0 +1,41 @@
+{
+  "material.aether_tinker": {
+    "sky_wood": "#7a7a59",
+    "zanite": "#7a5bb5",
+    "skyjade": "#b2e865",
+    "gravitite": "#e072d7",
+    "firefly": "#cfccc2",
+    "cloud_steel": "#dfffff",
+    "valkyrie": "#dbad28",
+    "mushroom_steel": "#5659ff",
+    "stratus": "#bb8acd",
+    "ambrosium": "#f4f260",
+    "slime_bishop": "#aaaaaa"
+  },
+  "modifier.aether_tinker": {
+    "_蘑菇我老婆_": null,
+    "cardinal": "#ea9225",
+    "god": "#496fb6",
+    "sanger": "#7a7a59",
+    "c_moon": "#7a5bb5",
+    "c_moon_c": "#7a5bb5",
+    "elegant": "#b2e865",
+    "elegant_c": "#b2e865",
+    "elegant_armor": "#b2e865",
+    "sky_fire": "#74a591",
+    "sky_tinker_thing": "#e072d7",
+    "fight_for_live": "#de884e",
+    "heroic_spirit": "#dbad28",
+    "good": "#9aa5ac",
+    "soft_cloud": "#dfffff",
+    "soft": "#dfffff",
+    "mushroom_boom": "#5659ff",
+    "no_look": "#5659ff",
+    "no_look_c": "#5659ff",
+    "storage": "#f4f260",
+    "storage_armor": "#f4f260",
+    "incomplete_dream": "#bb8acd",
+    "cloud_armor": "#bb8acd",
+    "cloud_armor_c": "#bb8acd"
+  }
+}

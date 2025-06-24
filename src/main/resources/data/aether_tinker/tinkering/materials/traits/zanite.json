@@ -1,0 +1,16 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "aether_tinker:c_moon"
+    }
+  ],
+  "perStat": {
+    "tinkers_ingenious:curio": [
+      {
+        "level": 1,
+        "name": "aether_tinker:c_moon_c"
+      }
+    ]
+  }
+}

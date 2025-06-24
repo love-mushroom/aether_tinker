@@ -1,0 +1,19 @@
+{
+  "type": "tconstruct:damagable_melting",
+  "byproducts": [
+    {
+      "amount": 180,
+      "tag": "tconstruct:molten_uranium"
+    }
+  ],
+  "ingredient": {
+    "item": "aether:ambrosium_ore"
+  },
+  "result": {
+    "amount": 300,
+    "fluid": "aether_tinker:molten_ambrosium",
+    "unit_size": 10
+  },
+  "temperature": 900,
+  "time": 20
+}

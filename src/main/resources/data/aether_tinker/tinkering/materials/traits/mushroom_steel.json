@@ -1,0 +1,22 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "aether_tinker:mushroom_boom"
+    }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "aether_tinker:no_look"
+      }
+    ],
+    "tinkers_ingenious:curio": [
+      {
+        "level": 1,
+        "name": "aether_tinker:no_look_c"
+      }
+    ]
+  }
+}

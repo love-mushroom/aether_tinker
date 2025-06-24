@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " YY",
+    "YYY",
+    "YY "
+  ],
+  "key": {
+    "Y": {
+      "tag": "aether:aerclouds"
+    }
+  },
+  "result": {
+    "item": "aether_tinker:cloud_steel",
+    "count": 2
+  }
+}

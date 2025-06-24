@@ -1,0 +1,26 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "1": "aether_tinker:item/tool/crosier/ding",
+    "2": "aether_tinker:item/tool/crosier/huwan",
+    "3": "aether_tinker:item/tool/crosier/bing"
+  },
+  "modifier_roots": [
+    "aether_tinker:item/tool/crosier/modifiers/"
+  ],
+  "parts": [
+    {
+      "name": "2",
+      "index": 1
+    },
+    {
+      "name": "1",
+      "index": 0
+    },
+    {
+      "name": "3",
+      "index": 2
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting_fuel",
+  "duration": 100,
+  "fluid": {
+    "amount": 10,
+    "fluid": "aether_tinker:molten_ambrosium"
+  },
+  "rate": 10,
+  "temperature": 1500
+}

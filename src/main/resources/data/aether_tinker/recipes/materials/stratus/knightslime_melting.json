@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "deep_aether:stratus_ingot"
+  },
+  "result": {
+    "fluid": "aether_tinker:molten_stratus",
+    "amount": 90
+  },
+  "temperature": 1430,
+  "time": 20
+}

@@ -1,0 +1,16 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "aether_tinker:cardinal"
+    },
+    {
+      "level": 1,
+      "name": "aether_tinker:god"
+    },
+    {
+      "level": 1,
+      "name": "tconstruct:overslime"
+    }
+  ]
+}

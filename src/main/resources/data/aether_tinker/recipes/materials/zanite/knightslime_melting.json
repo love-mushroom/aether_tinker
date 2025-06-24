@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "aether:zanite_gemstone"
+  },
+  "result": {
+    "fluid": "aether_tinker:molten_zanite_gemstone",
+    "amount": 90
+  },
+  "temperature": 980,
+  "time": 20
+}

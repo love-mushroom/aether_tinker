@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "name": "aether_tinker:molten_stratus",
+    "amount": 90
+  },
+  "temperature": 1430,
+  "output": "aether_tinker:stratus"
+}

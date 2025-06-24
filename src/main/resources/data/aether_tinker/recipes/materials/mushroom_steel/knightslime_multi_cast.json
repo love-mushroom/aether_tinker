@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "cast_consumed": false,
+  "fluid": {
+    "name": "aether_tinker:molten_mushroom_steel",
+    "amount": 90
+  },
+  "result": "aether_tinker:mushroom_steel",
+  "cooling_time": 200
+}

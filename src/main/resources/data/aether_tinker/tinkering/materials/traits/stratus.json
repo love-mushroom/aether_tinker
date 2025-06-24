@@ -1,0 +1,22 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "aether_tinker:incomplete_dream"
+    }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "aether_tinker:cloud_armor"
+      }
+    ],
+    "tinkers_ingenious:curio": [
+      {
+        "level": 1,
+        "name": "aether_tinker:cloud_armor_c"
+      }
+    ]
+  }
+}

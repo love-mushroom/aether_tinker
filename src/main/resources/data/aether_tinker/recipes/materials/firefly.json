@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "aether_tinker:firefly"
+  },
+  "value": 1,
+  "needed": 1,
+  "material": "aether_tinker:firefly"
+}

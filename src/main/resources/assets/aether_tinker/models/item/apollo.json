@@ -1,0 +1,47 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "aether_tinker:item/apollo"
+  },
+  "display": {
+    "ground": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 1, 0],
+      "scale":[ 2, 2, 0.25 ]
+    },
+    "head": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 1, 0],
+      "scale":[ 2, 2, 0.25]
+    },
+    "fixed": {
+      "rotation": [ 0, 0, 0 ],
+      "scale": [ 2, 2, 1 ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 1, 0 ],
+      "scale": [ 2, 2, 0.25 ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 0, 0 ],
+      "scale": [ 2, 2, 0.25 ]
+    },
+    "firstperson_righthand": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [ 0, 1, 0 ],
+      "scale": [ 2, 2, 0.25 ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [ 0, 0, 0 ],
+      "translation": [0, 1, 0 ],
+      "scale": [ 2, 2, 0.25 ]
+    },
+    "gui": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 0, 0],
+      "scale": [2, 2, 1]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "aether_tinker:c_moon"
+    },
+    {
+      "level": 1,
+      "name": "aether_tinker:sky_tinker_thing"
+    }
+  ]
+}

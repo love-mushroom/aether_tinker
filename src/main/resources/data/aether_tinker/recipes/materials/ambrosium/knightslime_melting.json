@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "aether:ambrosium_shard"
+  },
+  "result": {
+    "fluid": "aether_tinker:molten_ambrosium",
+    "amount": 250
+  },
+  "temperature": 980,
+  "time": 20
+}

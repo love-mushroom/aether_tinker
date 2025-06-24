@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "aether_tinker:mushroom_steel"
+  },
+  "result": {
+    "fluid": "aether_tinker:molten_mushroom_steel",
+    "amount": 90
+  },
+  "temperature": 980,
+  "time": 20
+}

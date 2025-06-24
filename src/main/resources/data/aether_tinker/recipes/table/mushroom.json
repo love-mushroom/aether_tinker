@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "YXY",
+    "YYY"
+  ],
+  "key": {
+    "X": {
+      "item": "aether_redux:veridium_ingot"
+    },
+    "Y": {
+      "item": "aether_redux:cloudcap_mushling"
+    }
+  },
+  "result": {
+    "item": "aether_tinker:mushroom_steel",
+    "count": 2
+  }
+}

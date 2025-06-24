@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "name": "aether_tinker:molten_zanite_gemstone",
+    "amount": 90
+  },
+  "temperature": 980,
+  "output": "aether_tinker:zanite"
+}

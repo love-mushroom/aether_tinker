@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " BA",
+    "CDA",
+    "CB "
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "aether:swet_ball"
+    },
+    "B": {
+      "item": "aether_redux:vanilla_swet_ball"
+    },
+    "C": {
+      "tag": "deep_aether:is_golden_swet_ball"
+    }
+  },
+  "result": {
+    "item": "aether_tinker:slime_bishop",
+    "count": 1
+  }
+}

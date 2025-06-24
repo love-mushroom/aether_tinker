@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "aether_tinker:heroic_spirit"
+    },
+    {
+      "level": 1,
+      "name": "aether_tinker:good"
+    }
+  ]
+}

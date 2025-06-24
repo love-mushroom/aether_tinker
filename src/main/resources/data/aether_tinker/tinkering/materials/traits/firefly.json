@@ -1,0 +1,12 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "aether_tinker:sky_fire"
+    },
+    {
+      "level": 1,
+      "name": "aether_tinker:fight_for_live"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "aether_tinker:valkyrie"
+  },
+  "value": 1,
+  "needed": 1,
+  "material": "aether_tinker:valkyrie"
+}

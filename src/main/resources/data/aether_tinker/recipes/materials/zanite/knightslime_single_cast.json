@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/ingot"
+  },
+  "cast_consumed": true,
+  "fluid": {
+    "name": "aether_tinker:molten_zanite_gemstone",
+    "amount": 90
+  },
+  "result": "aether:zanite_gemstone",
+  "cooling_time": 200
+}
